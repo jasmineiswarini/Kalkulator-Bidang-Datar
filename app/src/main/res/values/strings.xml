@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KalkulatorBD</string>
+    <string name="p">Panjang/Alas/Diameter :</string>
+    <string name="l">Lebar/Tinggi :</string>
+    <string name="persegi">Persegi</string>
+    <string name="segitga">Segitiga</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="luas">Luas :</string>
+    <string name="kel">Keliling :</string>
+    <string name="cl">CLEAR</string>
+</resources>
